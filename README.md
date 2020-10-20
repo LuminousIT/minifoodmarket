@@ -16,7 +16,9 @@ Email: test@tellerium.io
 Password: password
 ```
 
-### 🏠 [Homepage](https://minifoodmarket.herokuapp.com)
+### 🏠 [Production](https://minifoodmarket.herokuapp.com)
+
+[https://minifoodmarket.herokuapp.com](https://minifoodmarket.herokuapp.com)
 
 ### Development
 
