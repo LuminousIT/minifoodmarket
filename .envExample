@@ -1,0 +1,13 @@
+# .env
+
+appUrl=http://localhost
+
+devDbURI="mongodb://localhost:27017/crudApp"
+proDbURI="mongodb+srv://<username>:<password>@cluster0.hbydh.mongodb.net/crudApp?retryWrites=true&w=majority"
+
+
+jwtSecret="secret"
+#tokenExpire="4h"
+tokenExpire="7d"
+
+
